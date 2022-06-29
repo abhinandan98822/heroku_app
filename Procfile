@@ -1,0 +1,1 @@
+web: gunicorn psymphony\ 2.wsgi --log-file -
