@@ -40,7 +40,6 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-env/
 build/
 develop-eggs/
 dist/
@@ -88,7 +87,7 @@ target/
 ### Django ###
 *.log
 local.py
-.env
+
 db.sqlite3
 local_settting.py
 
@@ -211,10 +210,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
-.venv
-env/
-venv/
+
+
 ENV/
 env.bak/
 venv.bak/
