@@ -1,1 +1,1 @@
-web: gunicorn psymphony\ 2.wsgi --log-file -
+web: gunicorn djangoAssess.wsgi
